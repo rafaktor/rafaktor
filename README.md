@@ -52,6 +52,7 @@ Currently participating in the **Ubisoft Game Lab Competition 2026**, developing
 | [BattleShip](https://github.com/rafaktor/BattleShip) | Multiplayer naval battle game with network play | Java, JavaFX, WebSocket |
 | [SudokuSolver](https://github.com/rafaktor/SudokuSolver) | Sudoku generator and solver with backtracking | Swift, SwiftUI |
 | [MTL Food Violations](https://github.com/rafaktor/mtl-food-violations-analysis) | Data analysis of Montreal food inspection data | Python, pandas, matplotlib |
+| [Ares CTI Dashboard](https://ares-cti-dashboard.vercel.app/dashboard) | Cyber Threat Intelligence dashboard with live threat feeds, IOC lookups, and risk scoring | React, TypeScript, Python, Flask, Redis |
 
 ---
 
