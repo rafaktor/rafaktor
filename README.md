@@ -49,9 +49,9 @@ Currently participating in the **Ubisoft Game Lab Competition 2026**, developing
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Portfolio](https://rafaelrodriguez.ca) | Interactive WebGL portfolio with particle system | Three.js, GSAP, Vite |
-| [BattleShip](https://github.com/rodriguezgonzalez/BattleShip) | Multiplayer naval battle game with network play | Java, JavaFX, WebSocket |
-| [SudokuSolver](https://github.com/rodriguezgonzalez/SudokuSolver) | Sudoku generator and solver with backtracking | Swift, SwiftUI |
-| [MTL Food Violations](https://github.com/rodriguezgonzalez/mtl-food-violations-analysis) | Data analysis of Montreal food inspection data | Python, pandas, matplotlib |
+| [BattleShip](https://github.com/rafaktor/BattleShip) | Multiplayer naval battle game with network play | Java, JavaFX, WebSocket |
+| [SudokuSolver](https://github.com/rafaktor/SudokuSolver) | Sudoku generator and solver with backtracking | Swift, SwiftUI |
+| [MTL Food Violations](https://github.com/rafaktor/mtl-food-violations-analysis) | Data analysis of Montreal food inspection data | Python, pandas, matplotlib |
 
 ---
 
