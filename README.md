@@ -60,4 +60,4 @@ Currently participating in the **Ubisoft Game Lab Competition 2026**, developing
 
 - Portfolio: [rafaelrodriguez.ca](https://rafaelrodriguez.ca)
 - LinkedIn: [rafael-14](https://linkedin.com/in/rafael-14/)
-- Email: contact@rafaelrodriguez.ca
+- Email: rafael@rafaelrodriguez.ca
