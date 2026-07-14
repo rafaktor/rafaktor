@@ -9,7 +9,6 @@
 
 Software engineering student at UQAM (graduating May 2026) with 6 years of experience as an Apple Technical Specialist. I build across the stack -- full-stack web applications, mobile apps, game prototypes, and creative coding. Trilingual: French, English, Spanish.
 
-Currently participating in the **Ubisoft Game Lab Competition 2026**, developing an original game over 10 weeks under mentorship from Ubisoft professionals.
 
 ---
 
